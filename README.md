@@ -32,9 +32,9 @@ The Web Dashboard:
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
-### 1️⃣ ESP32 Configuration
+### ESP32 Configuration
 
 Before uploading the firmware, you must provide your own credentials.
 
@@ -54,7 +54,7 @@ const char* password = "YOUR_WIFI_PASSWORD";
 ```
 Then upload the code to the ESP32.
 
-### 2️⃣ Frontend Configuration
+### Frontend Configuration
 
 In the web dashboard script, replace:
 
